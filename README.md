@@ -16,3 +16,6 @@ This project demonstrates how to implement CRUD (Create, Read, Update, Delete) o
    ```bash
    git clone https://github.com/sanjaynep/viewset-crud-operation.git
    cd viewset-crud-operation
+IT is based on the abstraction using modelviewset classes that are already demontrated
+
+To run server run python manage.py runserver
